@@ -279,8 +279,21 @@ Work:
 
 <img src="https://img.shields.io/badge/Altair-Data%20Science-8A2BE2?style=for-the-badge" />
 
-</div>
+<br><br>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=70&section=header&text=Verified%20Certificates&fontSize=28&fontColor=ffffff" />
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/vaidehi-bankar-167524295" target="_blank">
+<img src="https://img.shields.io/badge/Check%20All%20Certificates%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
+✨ All certifications can be verified from my LinkedIn profile ✨
+
+</div>
 ---
 
 # 🌱 Currently Learning
