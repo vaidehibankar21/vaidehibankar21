@@ -16,7 +16,7 @@
 Name: Vaidehi Vilas Bankar
 Location: Nagpur, Maharashtra, India
 Education: B.Tech CSE (2023-2027)
-Current CGPA: 7.84
+Current CGPA: 7.94
 Focus Areas:
   - Machine Learning
   - Data Science
@@ -51,33 +51,13 @@ Goal: Build scalable AI systems that solve real-world problems
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=Vaidehi's%20GitHub%20Universe&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://github-readme-stats.vercel.app/api?username=vaidehibankar21&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=18&bg_color=0D1117&title_color=C084FC&icon_color=A855F7&text_color=E5E7EB&include_all_commits=true&count_private=true" height="180" />
 
-<br>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vaidehibankar21&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=20&bg_color=0D1117&title_color=C084FC&icon_color=A855F7&text_color=E5E7EB&rank_icon=github&include_all_commits=true&count_private=true" />
-
-<img height="170" src="https://streak-stats.demolab.com?user=vaidehibankar21&theme=midnight-purple&hide_border=true&background=0D1117&ring=C084FC&fire=C084FC&currStreakLabel=C084FC" />
+<img src="https://streak-stats.demolab.com?user=vaidehibankar21&theme=midnight-purple&hide_border=true&background=0D1117&ring=C084FC&fire=A855F7&currStreakLabel=C084FC" height="180" />
 
 <br><br>
 
-<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=vaidehibankar21&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C084FC&line=A855F7&point=FFFFFF" />
-
-<br><br>
-
-<img width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaidehibankar21&theme=tokyonight" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=vaidehibankar21&theme=algolia&no-frame=true&row=1&column=7&margin-w=10&margin-h=15" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaidehibankar21&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E5E7EB&langs_count=8" />
-
-<br><br>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaidehibankar21&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E5E7EB" height="170" />
 
 </div>
 
@@ -85,48 +65,52 @@ Goal: Build scalable AI systems that solve real-world problems
 
 ## ✨ Featured Projects
 
-### 🩺 BioTrack (Ongoing)
+### 🩺 BioTrack — Real-Time Healthcare Analytics
 
-> Real-time healthcare monitoring and predictive analytics system focused on scalability, early risk detection, and intelligent healthcare insights.
+* Developing an intelligent healthcare monitoring system using Machine Learning
+* Focused on predictive analytics, risk detection, and scalable architecture
+* Building real-time data pipelines and AI-powered monitoring solutions
 
-**Tech Used:** Python • Machine Learning • Data Pipelines • Streamlit
-
----
-
-### 🎗 Breast Cancer Detection
-
-> Developed and deployed an ML classification system for tumor prediction using feature engineering and preprocessing.
-
-**Highlights:**
-
-* Streamlit Deployment
-* Classification Modeling
-* Data Preprocessing
-* Feature Engineering
+**Tech Stack:** Python • ML • Streamlit • Pandas • Scikit-learn
 
 ---
 
-### 🧪 Diabetes Prediction
+### 🎗 Breast Cancer Detection System
 
-> Built a machine learning model achieving **77.2% accuracy** for diabetes prediction using optimized preprocessing techniques.
+* Developed a classification model for tumor prediction
+* Applied preprocessing, feature engineering, and model optimization
+* Deployed using Streamlit for interactive predictions
+
+---
+
+### 🧪 Diabetes Prediction Model
+
+* Built ML models for diabetes risk prediction
+* Achieved 77.2% accuracy using preprocessing and feature engineering
 
 ---
 
 ### 🏏 IPL Match Prediction
 
-> Developed a prediction system achieving **97.36% accuracy** using historical IPL datasets and machine learning algorithms.
+* Created a prediction system using historical IPL datasets
+* Achieved 97.36% accuracy with feature engineering techniques
+* Deployed using Streamlit
 
 ---
 
 ### 🚀 Spaceship Titanic Prediction
 
-> Implemented classification models with advanced missing-value handling techniques and achieved **80.39% accuracy**.
+* Implemented classification algorithms with missing-value handling
+* Achieved 80.39% model accuracy
+* Performed extensive EDA and preprocessing
 
 ---
 
 ### 🚗 Car Price Prediction
 
-> Created a regression model achieving **84.57% R² score** for accurate car price estimation.
+* Developed a regression model for car price estimation
+* Achieved 84.57% R² score
+* Applied regression optimization techniques
 
 ---
 
@@ -136,38 +120,50 @@ Goal: Build scalable AI systems that solve real-world problems
 
 **Dec 2025 – Jan 2026**
 
-* Built and optimized machine learning models using Python and Scikit-learn
-* Performed preprocessing, feature engineering, and model validation
+* Built and optimized ML models using Python and Scikit-learn
+* Worked on preprocessing, feature engineering, and validation
+* Improved understanding of real-world ML workflows
+
+---
 
 ### 🌐 AI/ML Intern — Google for Developers
 
 **Jul 2025 – Sep 2025**
 
-* Worked on classification and regression problems
-* Strengthened ML fundamentals through project-based learning
+* Applied ML techniques to classification and regression problems
+* Strengthened practical AI and ML concepts through projects
+* Explored model evaluation and optimization techniques
+
+---
 
 ### 📊 Data Science Intern — Plasmid
 
 **Jan 2025 – Mar 2025**
 
-* Conducted EDA and SQL-based data analysis
-* Developed predictive models and visualizations
+* Conducted Exploratory Data Analysis and SQL-based analysis
+* Built predictive models and visualizations
+* Improved analytical and data interpretation skills
+
+---
 
 ### 📈 Data Science Intern — Altair
 
 **Jan 2025 – Mar 2025**
 
-* Built regression models and optimized workflows using Python and SQL
+* Worked on preprocessing and regression modeling
+* Optimized workflows using Python and SQL
+* Strengthened data analysis and modeling concepts
 
 ---
 
 ## 🏆 Achievements
 
-✨ College Topper — Secured **1st Rank** in 4th Semester
-✨ Secured **2nd Rank** in 3rd Semester
-✨ Delivered technical presentations on ML, DBMS, and Data Science
-✨ Active contributor to hands-on AI & ML projects
-✨ Continuous learner passionate about solving real-world problems
+🏅 Secured **1st Rank** in 4th Semester
+🏅 Secured **2nd Rank** in 3rd Semester
+🏅 Built and deployed multiple Machine Learning projects
+🏅 Delivered technical presentations on ML, DBMS, and Data Science
+🏅 Active learner exploring AI, ML, and scalable systems
+🏅 Continuously improving problem-solving and development skills
 
 ---
 
@@ -197,11 +193,13 @@ Goal: Build scalable AI systems that solve real-world problems
 
 ## 🌱 Currently Learning
 
-* Advanced Machine Learning
+* Advanced Machine Learning Algorithms
 * Deep Learning Fundamentals
-* Model Deployment & MLOps
+* MLOps and Model Deployment
 * Real-Time AI Systems
 * Data Engineering Concepts
+* Streamlit Deployment
+* Scalable Healthcare AI Systems
 
 ---
 
