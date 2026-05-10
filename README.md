@@ -1,3 +1,4 @@
+````markdown
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Vaidehi Bankar
 
 <div align="center">
@@ -17,14 +18,19 @@ Name: Vaidehi Vilas Bankar
 Location: Nagpur, Maharashtra, India
 Education: B.Tech CSE (2023-2027)
 Current CGPA: 7.94
+
 Focus Areas:
   - Machine Learning
   - Data Science
   - Predictive Analytics
   - Healthcare AI
-Current Project: BioTrack - Real-time Healthcare Analytics System
-Goal: Build scalable AI systems that solve real-world problems
-```
+
+Current Project:
+  - BioTrack - Real-time Healthcare Analytics System
+
+Goal:
+  - Build scalable AI systems that solve real-world problems
+````
 
 ---
 
@@ -32,15 +38,20 @@ Goal: Build scalable AI systems that solve real-world problems
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,sklearn" />
 
 <br><br>
 
 <img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=scikitlearn&logoColor=orange" />
+
 <img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=white" />
+
 <img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=blue" />
+
 <img src="https://img.shields.io/badge/Streamlit-111827?style=for-the-badge&logo=streamlit&logoColor=red" />
+
 <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql&logoColor=blue" />
+
 <img src="https://img.shields.io/badge/Data%20Visualization-111827?style=for-the-badge&logo=plotly&logoColor=purple" />
 
 </div>
@@ -51,13 +62,13 @@ Goal: Build scalable AI systems that solve real-world problems
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vaidehibankar21&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=18&bg_color=0D1117&title_color=C084FC&icon_color=A855F7&text_color=E5E7EB&include_all_commits=true&count_private=true" height="180" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaidehibankar21&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img src="https://streak-stats.demolab.com?user=vaidehibankar21&theme=midnight-purple&hide_border=true&background=0D1117&ring=C084FC&fire=A855F7&currStreakLabel=C084FC" height="180" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vaidehibankar21&theme=midnight-purple&hide_border=true" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaidehibankar21&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E5E7EB" height="170" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaidehibankar21&layout=compact&theme=midnight-purple&hide_border=true" />
 
 </div>
 
@@ -69,15 +80,15 @@ Goal: Build scalable AI systems that solve real-world problems
 
 * Developing an intelligent healthcare monitoring system using Machine Learning
 * Focused on predictive analytics, risk detection, and scalable architecture
-* Building real-time data pipelines and AI-powered monitoring solutions
+* Building real-time healthcare data pipelines and AI-powered monitoring systems
 
-**Tech Stack:** Python • ML • Streamlit • Pandas • Scikit-learn
+**Tech Stack:** Python • Machine Learning • Streamlit • Pandas • Scikit-learn
 
 ---
 
 ### 🎗 Breast Cancer Detection System
 
-* Developed a classification model for tumor prediction
+* Developed a machine learning classification model for tumor prediction
 * Applied preprocessing, feature engineering, and model optimization
 * Deployed using Streamlit for interactive predictions
 
@@ -87,6 +98,7 @@ Goal: Build scalable AI systems that solve real-world problems
 
 * Built ML models for diabetes risk prediction
 * Achieved 77.2% accuracy using preprocessing and feature engineering
+* Improved model performance using optimized workflows
 
 ---
 
@@ -94,7 +106,7 @@ Goal: Build scalable AI systems that solve real-world problems
 
 * Created a prediction system using historical IPL datasets
 * Achieved 97.36% accuracy with feature engineering techniques
-* Deployed using Streamlit
+* Deployed prediction model using Streamlit
 
 ---
 
@@ -102,7 +114,7 @@ Goal: Build scalable AI systems that solve real-world problems
 
 * Implemented classification algorithms with missing-value handling
 * Achieved 80.39% model accuracy
-* Performed extensive EDA and preprocessing
+* Performed EDA and feature preprocessing
 
 ---
 
@@ -172,20 +184,18 @@ Goal: Build scalable AI systems that solve real-world problems
 <div align="center">
 
 <img src="https://img.shields.io/badge/IBM-Data%20Analyst-8A2BE2?style=for-the-badge&logo=ibm&logoColor=white" />
+
 <img src="https://img.shields.io/badge/IBM-Python%20for%20Data%20Science-8A2BE2?style=for-the-badge&logo=ibm&logoColor=white" />
+
 <img src="https://img.shields.io/badge/IBM-Capstone-8A2BE2?style=for-the-badge&logo=ibm&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Google-AI%2FML-8A2BE2?style=for-the-badge&logo=google&logoColor=white" />
+
 <img src="https://img.shields.io/badge/InternPe-AI%2FML-8A2BE2?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/Plasmid-Data%20Science-8A2BE2?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/Altair-Data%20Science-8A2BE2?style=for-the-badge" />
-
-<br><br>
-
-### 🔗 Verified Professional Profiles
-
-<a href="https://www.linkedin.com/in/vaidehi-bankar-167524295">
-<img src="https://img.shields.io/badge/View%20LinkedIn%20Certifications-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
 </div>
 
@@ -238,5 +248,4 @@ Goal: Build scalable AI systems that solve real-world problems
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer" />
 
 </div>
-
----
+```
