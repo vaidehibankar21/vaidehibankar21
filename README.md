@@ -296,6 +296,7 @@ Work:
 </div>
 ---
 
+---
 # 🌱 Currently Learning
 
 <div align="center">
