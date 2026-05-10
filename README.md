@@ -61,11 +61,11 @@ Goal: Build scalable AI systems that solve real-world problems
 
 <br><br>
 
-<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=vaidehibankar21&theme=react-dark&hide_border=true&bg_color=0D1117&color=C084FC&line=A855F7&point=FFFFFF" />
+<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=vaidehibankar21&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C084FC&line=A855F7&point=FFFFFF" />
 
 <br><br>
 
-<img width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaidehibankar21&theme=github_dark" />
+<img width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaidehibankar21&theme=tokyonight" />
 
 <br><br>
 
@@ -175,13 +175,21 @@ Goal: Build scalable AI systems that solve real-world problems
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/IBM-Data%20Analyst-blue?style=for-the-badge&logo=ibm" />
-<img src="https://img.shields.io/badge/IBM-Python%20for%20Data%20Science-blue?style=for-the-badge&logo=ibm" />
-<img src="https://img.shields.io/badge/IBM-Capstone-blue?style=for-the-badge&logo=ibm" />
-<img src="https://img.shields.io/badge/Google-AI%2FML-red?style=for-the-badge&logo=google" />
-<img src="https://img.shields.io/badge/InternPe-AI%2FML-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Plasmid-Data%20Science-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Altair-Data%20Science-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/IBM-Data%20Analyst-8A2BE2?style=for-the-badge&logo=ibm&logoColor=white" />
+<img src="https://img.shields.io/badge/IBM-Python%20for%20Data%20Science-8A2BE2?style=for-the-badge&logo=ibm&logoColor=white" />
+<img src="https://img.shields.io/badge/IBM-Capstone-8A2BE2?style=for-the-badge&logo=ibm&logoColor=white" />
+<img src="https://img.shields.io/badge/Google-AI%2FML-8A2BE2?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/InternPe-AI%2FML-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Plasmid-Data%20Science-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Altair-Data%20Science-8A2BE2?style=for-the-badge" />
+
+<br><br>
+
+### 🔗 Verified Professional Profiles
+
+<a href="https://www.linkedin.com/in/vaidehi-bankar-167524295">
+<img src="https://img.shields.io/badge/View%20LinkedIn%20Certifications-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
@@ -197,21 +205,29 @@ Goal: Build scalable AI systems that solve real-world problems
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://linkedin.com/in/linkedin.com/in/vaidehi-bankar">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/vaidehi-bankar-167524295">
+<img src="https://img.shields.io/badge/LinkedIn-Vaidehi%20Bankar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+<br><br>
 
 <a href="mailto:vaidehibankar21@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-vaidehibankar21%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+<br><br>
+
 <a href="https://github.com/vaidehibankar21">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-vaidehibankar21-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=vaidehibankar21&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
 
 </div>
 
