@@ -47,17 +47,37 @@ Goal: Build scalable AI systems that solve real-world problems
 
 ---
 
-## 📊 GitHub Analytics
+## ✨ GitHub Universe
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=Vaidehi's%20GitHub%20Universe&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" />
+<br>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vaidehibankar21&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=20&bg_color=0D1117&title_color=C084FC&icon_color=A855F7&text_color=E5E7EB&rank_icon=github&include_all_commits=true&count_private=true" />
+
+<img height="170" src="https://streak-stats.demolab.com?user=vaidehibankar21&theme=midnight-purple&hide_border=true&background=0D1117&ring=C084FC&fire=C084FC&currStreakLabel=C084FC" />
 
 <br><br>
 
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8A2BE2&line=8A2BE2&point=FFFFFF" />
+<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=vaidehibankar21&theme=react-dark&hide_border=true&bg_color=0D1117&color=C084FC&line=A855F7&point=FFFFFF" />
+
+<br><br>
+
+<img width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaidehibankar21&theme=github_dark" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=vaidehibankar21&theme=algolia&no-frame=true&row=1&column=7&margin-w=10&margin-h=15" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaidehibankar21&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E5E7EB&langs_count=8" />
+
+<br><br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
@@ -181,7 +201,7 @@ Goal: Build scalable AI systems that solve real-world problems
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/linkedin.com/in/vaidehi-bankar">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -189,7 +209,7 @@ Goal: Build scalable AI systems that solve real-world problems
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/vaidehibankar21">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -206,16 +226,3 @@ Goal: Build scalable AI systems that solve real-world problems
 </div>
 
 ---
-
-# ⚡ Setup Instructions
-
-Replace these placeholders before uploading:
-
-* `YOUR_USERNAME` → Your GitHub username
-* `YOUR_LINKEDIN` → Your LinkedIn profile link
-
-Then:
-
-1. Create a repository with the same name as your GitHub username
-2. Upload this README.md file
-3. Your profile README will appear automatically on your GitHub profile
