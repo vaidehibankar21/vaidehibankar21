@@ -292,11 +292,8 @@ Work:
 <br><br>
 
 ✨ All certifications can be verified from my LinkedIn profile ✨
-
 </div>
----
 
----
 # 🌱 Currently Learning
 
 <div align="center">
